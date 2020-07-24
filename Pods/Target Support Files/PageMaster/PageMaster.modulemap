@@ -1,0 +1,6 @@
+framework module PageMaster {
+  umbrella header "PageMaster-umbrella.h"
+
+  export *
+  module * { export * }
+}
